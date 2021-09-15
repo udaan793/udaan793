@@ -11,7 +11,7 @@ Im Udaan a discord.py noob coder
 - 💬 Ask me about ...
 - anything?
 - 📫 How to reach me: ...<br>
-- [**Discord**](discord.gg/coders)
+- [**Discord**](https://discord.gg/8QsHCegvK2)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...<br>
 - Don't Skid
