@@ -3,7 +3,7 @@
 
 <div align="left"><img alt="status"src="https://discord.c99.nl/widget/theme-2/612551715987783681.png"</div>
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g7sh3jdylrmy7lrhtbaxfqjvmi&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g7sh3jdylrmy7lrhtbaxfqjvmi&cover_image=true&theme=default&show_offline=false)]
 
 
 
