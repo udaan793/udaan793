@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **https://discord.gg/6e7cG5JhmM**
+- 📫 How to reach me **https://discord.gg/CAV6WCcJWm**
 
 - ⚡ Fun fact **Dont Skid**
 
