@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cons</h1>
 <h3 align="center">A Not Passionate Guy From India</h3>
 
-![golang](https://user-images.githubusercontent.com/84678304/195388759-354f6624-69c4-4e87-99ce-d4f75d26b71f.gif)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g7sh3jdylrmy7lrhtbaxfqjvmi&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaan793&label=Profile%20views&color=0e75b6&style=flat" alt="udaan793" /> </p>
