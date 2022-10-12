@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im UDAAN a discord.py noob coder
+Im Cons A Guy Who knows Some c++, C and Golang and is looking forward to nothing
 
 
 - 🔭 I’m currently working on - Nothing
