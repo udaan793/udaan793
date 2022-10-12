@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cons</h1>
 <h3 align="center">A Not Passionate Guy From India</h3>
 
-https://discord.c99.nl/widget/theme-1/Cons#2451.png
+https://discord.c99.nl/widget/theme-2/612551715987783681.png
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g7sh3jdylrmy7lrhtbaxfqjvmi&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
 
